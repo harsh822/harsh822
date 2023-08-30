@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Gautam</h1>
-<h3 align="center">On a road to Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
   <a href="https://in.linkedin.com/in/harsh822">
     <img align="center" alt="Harsh's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,7 +15,7 @@
 
  🌱 I’m currently learning <b>Data Structures & Algorithm </b>;<br> 
  💬 Ask me about anything, I am happy to help;<br>
- 📝[My Resume](https://drive.google.com/file/d/1Euu_F4sCMIirGJoEUStFWo0UHMHar7Rn/view?usp=sharing)<br>
+ 📝[My Resume](https://drive.google.com/file/d/1Me-aaN6eWAcfU53Bxk1_whs7LUSfUrGs/view?usp=sharing)<br>
 
 
 ### **Languages and Tools:**  
